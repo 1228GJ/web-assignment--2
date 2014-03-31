@@ -1,0 +1,62 @@
+body
+{
+	font-family:"Microsoft YaHei","StHeiti Light";
+	font-size:100%;
+}
+div.one
+{
+	color:#0000cc;
+	position:absolute;
+	right:10px;
+	top:4px;
+	font-weight:lighter;
+	font-size:0.7em;	
+	word-spacing:4px;
+	letter-spacing:1px;
+}
+div.two
+{
+	color:#0000cc;
+	position:relative;
+	left:-24px;
+	word-spacing:10px;
+	letter-spacing:2px;
+}
+div.three
+{
+	position:relative;
+	right:-24px;
+	margin-top:3px;
+	color:#0000cc;
+}
+.three input.box
+{
+	height:30px;
+	width:450px;
+}
+.three input.boxtwo
+{
+	height:35px;
+	width:100px;
+}
+div.four
+{
+	
+	color:#0000cc;
+}
+div.five
+{
+	margin-top:250px;
+	color:#0000cc;
+	font-size:0.7em;	
+	word-spacing:4px;
+	letter-spacing:1px;
+}
+div.copyright
+{
+	margin-top:10px;
+	color:#505050;
+	font-size:0.7em;	
+	word-spacing:3px;
+	letter-spacing:1px;
+	}
